@@ -13,7 +13,7 @@ This is my product workbench — interactive tools and frameworks born from real
 | Project | What It Is | Try It |
 |---|---|---|
 | **[Build vs. Buy vs. Partner Framework](https://github.com/jananmg/build-buy-partner-framework)** | Interactive decision tool for evaluating ML capability strategy across 8 weighted dimensions | [Live Demo →](https://build-buy-partner-framework.vercel.app/) |
-| **AI Confidence Score Dashboard** | Prototype for surfacing model uncertainty to end users *(coming soon)* | 🚧 |
+| **AI Confidence Score Dashboard** (https://ai-confidence-dashboard.vercel.app/)| Prototype for surfacing model uncertainty to end users
 
 ---
 
