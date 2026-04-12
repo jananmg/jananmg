@@ -16,7 +16,7 @@ This is my product workbench — interactive tools and frameworks born from real
 | **[GridWatch](https://github.com/jananmg/legistrack)** | Real-time legislative tracker for U.S. infrastructure, utilities & telecom bills — pulls live data from Congress.gov | [Live App →](https://legistrack-six.vercel.app) |
 | **[Build vs. Buy vs. Partner Framework](https://github.com/jananmg/build-buy-partner-framework)** | Interactive decision tool for evaluating ML capability strategy across 8 weighted dimensions | [Live Demo →](https://build-buy-partner-framework.vercel.app/) |
 | **[AI Confidence Score Dashboard](https://ai-confidence-dashboard.vercel.app/)** | Prototype for surfacing model uncertainty to end users | [Live Demo →](https://ai-confidence-dashboard.vercel.app/) |
-| **[AI Alignment Matrix](https://github.com/jananmg/ai-alignment-matrix)** | A diagnostic tool for PMs to quantify the gap between executive AI hype and technical/cultural reality. | [Live App →](https://ai-alignment-matrix.vercel.app/)|
+| **[AI Alignment Matrix](https://github.com/jananmg/ai-alignment-matrix)** | A diagnostic tool based on Ethan Mollick's framework (Leadership, Crowd, Lab) to identify structural bottlenecks in AI adoption. | [Live App →](https://ai-alignment-matrix.vercel.app/)|
 ---
 
 ### 🧠 What I Think About
