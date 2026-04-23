@@ -3,7 +3,7 @@
 
 **Product Leader | Building Products for Infrastructure**
 
-I lead product at the intersection of AI/ML and the built environment — helping telecom, utility, and civil engineering teams work faster through intelligent automation. Currently VP of Product at AirWorks, where we turn data into actionable insights for project feasibility and create survey-grade, perimt-ready maps using computer vision and machine learning on aerial imagery. 
+I lead product at the intersection of AI/ML and the built environment — helping telecom, utility, and civil engineering teams work faster through intelligent automation. Currently VP of Product at AirWorks, where we turn data into actionable insights for project feasibility and create survey-grade, perimt-ready maps using computer vision and machine learning on aerial imagery and LiDAR data. 
 
 ---
 
